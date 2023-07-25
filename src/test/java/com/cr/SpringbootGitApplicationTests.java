@@ -10,6 +10,7 @@ class SpringbootGitApplicationTests {
     void contextLoads() {
         System.out.println("first");
         System.out.println("hello");
+        System.out.println("cc");
     }
 
 }
