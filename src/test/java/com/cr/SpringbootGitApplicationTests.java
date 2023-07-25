@@ -11,6 +11,7 @@ class SpringbootGitApplicationTests {
         System.out.println("first");
         System.out.println("hello");
         System.out.println("master");
+        System.out.println("push test");
     }
 
 }
