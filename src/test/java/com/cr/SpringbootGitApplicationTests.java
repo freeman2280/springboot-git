@@ -8,6 +8,7 @@ class SpringbootGitApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("first");
     }
 
 }
